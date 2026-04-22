@@ -1,0 +1,17 @@
+{
+  "name": "JCP Gestión Pro",
+  "short_name": "JCP Docs",
+  "description": "Herramienta de gestión JCP Alcantarillados",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a2e6b",
+  "theme_color": "#1a2e6b",
+  "icons": [
+    {
+      "src": "./assets/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
