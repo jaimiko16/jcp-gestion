@@ -1,6 +1,6 @@
 {
-  "name": "JCP Gestión Pro",
-  "short_name": "JCP Docs",
+  "name": "JCP",
+  "short_name": "JCP",
   "description": "Herramienta de gestión JCP Alcantarillados",
   "start_url": "./index.html",
   "display": "standalone",
